@@ -36,3 +36,22 @@
     }
   }
 ]
+
+
+
+
+
+
+
+
+[
+{
+  "ImageDataHouse": "https://i.pinimg.com/1200x/7a/56/6d/7a566db528e5988bca1c2f5c506b27c2.jpg",
+  "TitleDataHouse": "Sanam Baloch",
+  "DescriptionDataHouse": "Sanam Baloch is a former Pakistani actress and television host who became famous through hit dramas such as Dastaan and Kankar. Her natural acting and warm personality made her one of the most admired celebrities in Pakistan.",
+  "ContactDataHouse": {
+    "PhoneContactHouse": "+92-310-1112287",
+    "EmailContactHouse": "sanam.baloch@example.com"
+  }
+}
+]
